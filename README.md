@@ -1,16 +1,15 @@
-### Hi there 👋
-hhhxnx
-<!--
-**bielRB07/bielRB07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MEU NOME É GABRIEL 🥇
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+. ESTOU FAZENDO PROJETOS PELO ALURA 👨‍💻
+
+. EM USO DE SITES DO JAVASCRIPT 🏢
+
+. VEJA ALGUNS DOS MEUS PROJETOS 👨‍💼
+
+
+FALE COMIGO 🖤
+
+@biel.rbarbosa
+
