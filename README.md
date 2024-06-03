@@ -9,7 +9,7 @@
 - VEJA ALGUNS DOS MEUS PROJETOS 👨‍💼
 
 
-### FALE COMIGO 🖤
+### FALE COMIGO 💬
 
 @biel_rbarbosa
 
